@@ -9,4 +9,4 @@
 
 ### 📕 Latest Blog Posts
 
-<a href=https://codeblue25.tistory.com/2>테스트2</a><br /><a href=https://codeblue25.tistory.com/1>테스트</a><br />
+<a href=https://codeblue25.tistory.com/2>테스트2</a><br /><a href=https://codeblue25.tistory.com/1>[주제] 제목</a><br />
