@@ -14,4 +14,4 @@
 
 ### 📕 Latest Blog Posts
 
-<a href=https://codeblue25.tistory.com/2>테스트2</a><br /><a href=https://codeblue25.tistory.com/1>[주제] 제목</a><br />
+<a href=https://codeblue25.tistory.com/2>Sass를 아세요 ?</a><br /><a href=https://codeblue25.tistory.com/1>Git log 편하게 보기 (Git Alias)</a><br />
