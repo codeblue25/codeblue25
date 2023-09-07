@@ -8,7 +8,7 @@ import Parser from "rss-parser";
 let text = `
 ### 👋 Hi there 
 
-<p>FE Developer</p>
+<p>FE Developer 🚀</p>
 
 ### 💪 Skills
 
