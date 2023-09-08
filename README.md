@@ -1,7 +1,7 @@
 
 ### 👋 Hi there 
 
-<p>FE Developer</p>
+<p>FE Developer 🚀</p>
 
 ### 💪 Skills
 
@@ -14,4 +14,4 @@
 
 ### 📕 Latest Blog Posts
 
-<a href=https://codeblue25.tistory.com/2>Sass를 아세요 ?</a><br /><a href=https://codeblue25.tistory.com/1>Git log 편하게 보기 (Git Alias)</a><br />
+<a href=https://codeblue25.tistory.com/2>Sass를 아세요 ?</a><br /><a href=https://codeblue25.tistory.com/1>Git log 편하게 보기 (그리고 Alias 설정)</a><br />
