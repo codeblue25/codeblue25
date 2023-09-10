@@ -14,4 +14,4 @@
 
 ### 📕 Latest Blog Posts
 
-<a href=https://codeblue25.tistory.com/2>Sass를 아세요 ?</a><br /><a href=https://codeblue25.tistory.com/1>Git log 편하게 보기 (그리고 Alias 설정)</a><br />
+<a href=https://codeblue25.tistory.com/3>구조 분해 할당을 아세요 ?</a><br /><a href=https://codeblue25.tistory.com/1>Git log 편하게 보기 (그리고 Alias 설정)</a><br />
