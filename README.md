@@ -14,4 +14,4 @@
 
 ### 📕 Latest Blog Posts
 
-<a href=https://codeblue25.tistory.com/4>Vite + Vue3 환경변수 설정</a><br /><a href=https://codeblue25.tistory.com/3>구조 분해 할당(...)을 아세요 ?</a><br />
+<a href=https://codeblue25.tistory.com/5>Cypress를 알았다면 손목이 덜 아팠을거야</a><br /><a href=https://codeblue25.tistory.com/4>Vite + Vue3 환경변수 설정</a><br />
