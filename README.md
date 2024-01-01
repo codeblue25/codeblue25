@@ -14,4 +14,4 @@
 
 ### 📕 Latest Blog Posts
 
-<a href=https://codeblue25.tistory.com/8>전역 컴포넌트 등록</a><br /><a href=https://codeblue25.tistory.com/7>Sass를 알았다면 손목이 덜 아팠을거야</a><br />
+<a href=https://codeblue25.tistory.com/10>[대기 시스템 프로젝트] 회고</a><br /><a href=https://codeblue25.tistory.com/8>전역 컴포넌트 등록</a><br />
