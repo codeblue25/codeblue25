@@ -14,4 +14,4 @@
 
 ### 📕 Latest Blog Posts
 
-<a href=https://codeblue25.tistory.com/11>NPM과 Webpack</a><br /><a href=https://codeblue25.tistory.com/10>[대기 시스템 프로젝트] 회고</a><br />
+<a href=https://codeblue25.tistory.com/12>[맛집 커뮤니티 프로젝트] 회고</a><br /><a href=https://codeblue25.tistory.com/11>NPM과 Webpack</a><br />
