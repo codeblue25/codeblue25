@@ -14,4 +14,4 @@
 
 ### 📕 Latest Blog Posts
 
-<a href=https://codeblue25.tistory.com/13>JSON과 객체(Object)의 차이</a><br /><a href=https://codeblue25.tistory.com/12>[맛집 커뮤니티 프로젝트] 회고</a><br />
+<a href=https://codeblue25.tistory.com/14>DOM을 아세요 ?</a><br /><a href=https://codeblue25.tistory.com/13>JSON과 객체(Object)의 차이</a><br />
